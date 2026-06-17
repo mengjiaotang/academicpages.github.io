@@ -14,8 +14,8 @@ title_separator          : "-"
 name                     : &name "Mengjiao Tang"
 description              : &description "Academic homepage of Mengjiao Tang, Associate Professor at Yunnan University"
 url                      : https://mengjiaotang.github.io
-baseurl                  : "/academicpages.github.io"
-repository               : "mengjiaotang/academicpages.github.io"
+baseurl                  : ""
+repository               : "mengjiaotang/mengjiaotang.github.io"
 
 # Site Author
 author:
