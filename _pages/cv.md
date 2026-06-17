@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-A full PDF version of my CV is available [here](/files/cv.pdf).
 
 Education
 ======
