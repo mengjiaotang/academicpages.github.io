@@ -12,9 +12,10 @@ I am an Associate Professor in the [School of Mathematics and Statistics](http:/
 ## Research Interests
 
 My research lies at the intersection of statistical signal processing and applied mathematics, with particular focus on:
-- Statistical Signal Processing
+- Statistical signal processing
 - Adaptive radar target detection 
 - Information geometric methods with application to fusion
+- Statistical theory applied to signal processing
 - Trajectory modeling and target tracking
 - Remote sensing image analysis
 
